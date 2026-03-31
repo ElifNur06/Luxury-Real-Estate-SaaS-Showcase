@@ -64,6 +64,6 @@ An enterprise-grade, fully independent Software as a Service (SaaS) platform des
 
 
 ## 📞 Contact & Licensing
-This is a proprietary, closed-source enterprise software. For live demonstrations, API access, or enterprise licensing inquiries, please contact the development team.
+This is a proprietary, closed-source enterprise software. For live demonstrations, API access, or enterprise licensing inquiries, please contact the development team. codebygunes
 
 **Developed by:** [Your Name / Company Name]
